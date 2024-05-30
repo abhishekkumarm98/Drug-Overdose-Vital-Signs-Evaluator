@@ -20,7 +20,13 @@
 pip install -r requirements.txt
 ```
 
+### To download the data [click here][1], please send an email to us at aln57@drexel.edu or am4862@drexel.edu with your email id   
+
 ### To generate the results
 ```
 python main.py --epoch 101 --learningRate 0.001 
 ```
+
+
+
+[1]: https://drive.google.com/file/d/11onYF8Eaoef4Y5vzfBhfBzvqJRCldF9D/view?usp=drive_link

@@ -16,7 +16,7 @@ from sklearn.preprocessing import MinMaxScaler, StandardScaler, RobustScaler
 from sklearn.metrics import confusion_matrix, classification_report
 
 class Config:
-    def __init__(self, dataset='mnist'):
+    def __init__(self, dataset=''):
         
         if dataset == 'sleepApnea':
             
