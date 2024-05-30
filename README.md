@@ -20,7 +20,7 @@
 pip install -r requirements.txt
 ```
 
-### To download the data [click here][1], please send an email to us at aln57@drexel.edu or am4862@drexel.edu with your email id   
+### To download the data ([click here][1]), please send an email to us (aln57@drexel.edu or am4862@drexel.edu) with your email id   
 
 ### To generate the results
 ```
